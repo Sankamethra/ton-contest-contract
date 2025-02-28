@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "name": "ContestWallet",
+            "path": "./contracts/contest_wallet.tact",
+            "output": "./build"
+        },
+        {
+            "name": "ContestFactory",
+            "path": "./contracts/contest_factory.tact",
+            "output": "./build"
+        }
+    ]
+}
